@@ -39,7 +39,7 @@ function setup() {
     input.position(marginL+440,marginT+5);
     input.style('width', marginR-marginL-448+'px');
     
-    frameRate(24);
+    frameRate(10);
 }
 
 
